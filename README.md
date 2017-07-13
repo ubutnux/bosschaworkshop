@@ -1,5 +1,8 @@
 # Bosscha python workshop
 
+## Day 0
+* What you need to prepare before workshop
+
 ## Day 1
 * Intro to python
 * IPython and Jupyter-notebook
