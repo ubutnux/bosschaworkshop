@@ -29,3 +29,8 @@
 ## Day 5
 * intro to git
 
+
+### Contributor
+* M. Yusuf 
+* R. W. W.
+*
