@@ -1,7 +1,11 @@
-# bosscha python workshop
+# Bosscha python workshop
+
+## Day 0
+* What you need to prepare before workshop
+
 ## Day 1
 * Intro to python
-* Using the IPython notebook
+* IPython and Jupyter-notebook
 * Numbers, Strings, and Lists
 * Booleans, Tuples, and Dictionaries
 * Control Flow
@@ -10,13 +14,23 @@
 
 ## Day 2
 * Numpy
-* Matplotlib
+* Intro to Scipy and Pandas
+* Plotting: matplotlib, aplpy
 
-## Day 3
+## Day 3 
 * astropy
 * astroplan
 * astroquery
 
 ## Day 4
-* intro to genetic algorithm
+* intro to optimization: genetic algorithm
 * intro to bayes stat
+
+## Day 5
+* intro to git
+
+
+### Contributor
+* M. Yusuf 
+* R. W. W.
+*
