@@ -40,22 +40,28 @@
   * basic plotting, multiple axes, object oriented interface, visualizing 2-d data, error bars, annotation, surface plots, plotting on sphere, histogram, plotting from file, interactivity
 
 ## Day 3:
-* astropy
-  * units quantities, coordinates, fits, table, modeling, photutils
-* astroquery
-* astroplan
-  * planning, plotting, constraints, scheduling
-
-## Day 4 (tentative)
-* scipy
+* pandas
+  * series, dataframe, statistics, boolean indexing, histogram, plotting
+* scipy (tentative)
   * numerical methods
   * fft
   * linear algebra
   * optimization
   * interpolation
   * statistics
-* pandas
-  * series, dataframe, statistics, boolean indexing, histogram, plotting
+* advanced plotting
+  * seaborn
+  * bokeh
+  * altair
+
+
+## Day 4
+* astropy
+  * units quantities, coordinates, fits, table, modeling, photutils
+* astroquery
+* astroplan
+  * planning, plotting, constraints, scheduling
+
 
 ## Day -
 * intro to optimization: genetic algorithm
