@@ -1,6 +1,6 @@
 # crash course on python for scientific computing
 
-22nd-25th May 2018 - bosscha observatory
+19th-20th January 2019 - bosscha observatory
 
 
 ## Requirements:
