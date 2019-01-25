@@ -1,0 +1,11 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: name, datatype: string}
+# - {name: flux, datatype: float64}
+# schema: astropy-2.0
+name flux
+larry 1.2
+curly 2.2
+moe 3.1
+shemp 4.3

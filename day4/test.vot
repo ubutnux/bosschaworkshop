@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 3.1.1
+     http://www.astropy.org/ -->
+<VOTABLE version="1.3" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ivoa.net/xml/VOTable/v1.3">
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="name" arraysize="5" datatype="unicodeChar" name="name"/>
+   <FIELD ID="flux" datatype="double" name="flux"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>larry</TD>
+      <TD>1.2</TD>
+     </TR>
+     <TR>
+      <TD>curly</TD>
+      <TD>2.2</TD>
+     </TR>
+     <TR>
+      <TD>moe</TD>
+      <TD>3.1</TD>
+     </TR>
+     <TR>
+      <TD>shemp</TD>
+      <TD>4.3</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
